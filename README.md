@@ -9,6 +9,7 @@ Syntax: shortcut2figtool(tooltiptag)
 
 e.g.:    shortcut2figtool('FileOpen') --> opens a new Figure
 
+See screenshot for example on how to use.
 The toolbar icons can be found by typing the following in the command
 window:
 fullfile(matlabroot,'/toolbox/matlab/icons/')
