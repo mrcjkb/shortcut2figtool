@@ -1,4 +1,12 @@
 # shortcut2figtool
+
+> [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+>
+> __NOTE:__
+>
+> Since I no longer use Matlab, I cannot actively maintain this model.
+> I will gladly accept PRs, as long as I can review them without Matlab.
+
 Matlab function for creating shortcuts to figure toolbar buttons (useful for docked figures).
 Executes/Emulates callbacks of figure toolbar buttons.
 Can be used to create a shortcut to figure menu items in the quick access
